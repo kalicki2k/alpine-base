@@ -27,7 +27,7 @@ if [ -f /usr/share/zoneinfo/$1 ];
   fi
 
 #
-# Remove tzdata, not neded anymore
+# Remove tzdata, not needed anymore
 #
 apk del tzdata
 
