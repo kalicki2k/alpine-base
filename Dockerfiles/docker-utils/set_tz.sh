@@ -1,6 +1,6 @@
-#!/bin/sh
+#!/bin/bash
 #
-# Porpose: Set timezone in Alpine
+# Purpose: Set timezone in Alpine
 # Version: 1.0
 #
 
