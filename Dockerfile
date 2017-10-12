@@ -1,6 +1,6 @@
 FROM alpine:3.6
 
-MAINTAINER Sebastian Kalicki <sebastian@kalicki.email>
+MAINTAINER Sebastian Kalicki (https://github.com/kalicki2k)
 
 ARG timezone=Europe/Berlin
 
