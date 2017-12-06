@@ -4,7 +4,7 @@ MAINTAINER Sebastian Kalicki (https://github.com/kalicki2k)
 
 ARG timezone=Europe/Berlin
 
-COPY Dockerfiles/. /
+COPY Dockerfiles /
 
 RUN apk update && apk upgrade && \
     apk add bash tzdata && \
