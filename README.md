@@ -1,2 +1,2 @@
 # Alpine Linux Docker Image
-This is the base image for all my other microcontainers
+This is the base image for all my other micro containers.
